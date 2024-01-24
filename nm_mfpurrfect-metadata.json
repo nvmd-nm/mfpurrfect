@@ -18,8 +18,8 @@
             "item_index": 0,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -32,8 +32,8 @@
             "item_index": 1,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -46,8 +46,8 @@
             "item_index": 2,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -60,8 +60,8 @@
             "item_index": 3,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -74,8 +74,8 @@
             "item_index": 4,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -88,8 +88,8 @@
             "item_index": 5,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -102,8 +102,8 @@
             "item_index": 6,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -116,8 +116,8 @@
             "item_index": 7,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -130,8 +130,8 @@
             "item_index": 8,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -144,8 +144,8 @@
             "item_index": 9,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -158,8 +158,8 @@
             "item_index": 10,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -172,8 +172,8 @@
             "item_index": 11,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -186,8 +186,8 @@
             "item_index": 12,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -200,8 +200,8 @@
             "item_index": 13,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -214,8 +214,8 @@
             "item_index": 14,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -228,8 +228,8 @@
             "item_index": 15,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -242,8 +242,8 @@
             "item_index": 16,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -256,8 +256,8 @@
             "item_index": 17,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -270,8 +270,8 @@
             "item_index": 18,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -284,8 +284,8 @@
             "item_index": 19,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -298,8 +298,8 @@
             "item_index": 20,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -312,8 +312,8 @@
             "item_index": 21,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -326,8 +326,8 @@
             "item_index": 22,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -340,8 +340,8 @@
             "item_index": 23,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -354,8 +354,8 @@
             "item_index": 24,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -368,8 +368,8 @@
             "item_index": 25,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -382,8 +382,8 @@
             "item_index": 26,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -396,8 +396,8 @@
             "item_index": 27,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -410,8 +410,8 @@
             "item_index": 28,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -424,8 +424,8 @@
             "item_index": 29,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -438,8 +438,8 @@
             "item_index": 30,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "Walking"
                 }
             ]
         },
@@ -452,8 +452,456 @@
             "item_index": 31,
             "item_attributes": [
                 {
-                    "trait_type": "name",
-                    "value": ""
+                    "trait_type": "type",
+                    "value": "walking"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0xb48c2a28f9ef7911b8c17845fd1f3512c9300a7ee365d040e1dbd4a283eff364",
+            "name": "mfpurrfect #33",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 32,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0x32cdbf2080210edd2d4d71927cfe74e1fd8cc4c84ce951f830bbfd59f30e1d74",
+            "name": "mfpurrfect #34",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 33,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0x5d6cd330ac7aa35903453ca4f9ec5848383fcf9c300060e83a553143d0552ec3",
+            "name": "mfpurrfect #35",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 34,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0xfaaca35cf4c8bde9bc7bf58b1c41d626bba8d47d8e15d899dccb37ede5884fc6",
+            "name": "mfpurrfect #36",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 35,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0x610eac7fc47685605ea95ec63eaad85aa2668e659c05d15f303a5d38610f9ec1",
+            "name": "mfpurrfect #37",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 36,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0xf0e69e5ebebcabd545b0c126bdf2456cfd650637ab9bf2704823f1d3f66ece79",
+            "name": "mfpurrfect #38",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 37,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0x4e689383009bfaa451f4ef31a632f17e27b897f4fb91bc4023c6eba7763eb34b",
+            "name": "mfpurrfect #39",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 38,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0x8da45696925ed4488f9bbea3fb3531ce35df35231aa654d08548f5ef01084b65",
+            "name": "mfpurrfect #40",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 39,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0x8694edad3d754302611791674dcc3578ac0818c7451bd28ca993c11b28b36b2b",
+            "name": "mfpurrfect #41",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 40,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0x055f0891f8a5cd9aebc96c3e7b9b62bf6cd97bc737c020092d96fdbb456b2fde",
+            "name": "mfpurrfect #42",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 41,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0xc584fe156e4d6918c945de16e4e0ea76cc21e44ab5f82b4bdd9d016d7182cece",
+            "name": "mfpurrfect #43",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 42,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0xa909ec76a31c962b3e29fe31cc7b1b4b5b6ed4fadbc87e4e9df02da6038cb2a2",
+            "name": "mfpurrfect #44",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 43,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0xc17cfea056ba7154159e8486e36fdb831cb8f90a45c6c6fa8a63a26c1b2fd525",
+            "name": "mfpurrfect #45",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 44,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0xc1a2855882bc1bcb28b9d5400693da94f6aa7d0357732ce142a9e1292902af35",
+            "name": "mfpurrfect #46",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 45,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0xbb3ade8cb9e200221693dfcd1391aaa912e74e69464c5ef696d74590b83ffa99",
+            "name": "mfpurrfect #47",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 46,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0x086214e92a8659d3d6a35c3eaef7afed5373f2d37bf3c465246a2ce411998047",
+            "name": "mfpurrfect #48",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 47,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0x75d09cddd4426f6668621a0a59e86aef3c0e31bac35ecf5bc3645cec116d0b8e",
+            "name": "mfpurrfect #49",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 48,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0x79a8ad09ac1b3f33c2832ed21380e332ff5ac826aaa89c2d05061af653c27b89",
+            "name": "mfpurrfect #50",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 49,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0x5b5df9920b2be4b5974f012f0f5b2dc5e579388703daa97a90676be37af1c550",
+            "name": "mfpurrfect #51",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 50,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0x33dea781c791ecafd531e9f3cabc31fc5506c3db64a263f14c8970e84ba2fdb7",
+            "name": "mfpurrfect #52",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 51,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0xd95ca8cc994db89b8b8fd68d4cc0a6876cca5698312a4d17261ae4148a195142",
+            "name": "mfpurrfect #53",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 52,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0xf82a85121a7ecd27cfc6c1905bca3e9885804de526f79dc7acbc58bf943efd04",
+            "name": "mfpurrfect #54",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 53,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0x4f6e99a2b1f35775b392c9c201e7fb5a55c2f3dcf73971468471a33c77ccd320",
+            "name": "mfpurrfect #55",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 54,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0x37de709b26505c363deaf2379fba1359dd57513aa518553e0c9b30e1340b53a6",
+            "name": "mfpurrfect #56",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 55,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0x3cc3501de423d8cace758179ec7123d9467085559bafe64cfa5a41f49af40477",
+            "name": "mfpurrfect #57",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 56,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0x72873fc2797a53635414fa222def3d92434a503463ffd819515beb2205f74d0b",
+            "name": "mfpurrfect #58",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 57,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0x75a1317764b9479bbcfc6618ff2afbd614a027f191d638679c7d97df4222f950",
+            "name": "mfpurrfect #59",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 58,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0xacec71e88588151ccf1ae7a88580ab388780017c2b92e9e22df2d9b588426f1a",
+            "name": "mfpurrfect #60",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 59,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0x664e63eb8b2ed9b97cecfbce9574411df6fe7a79ae9ea582ffcbdfeee3a395e8",
+            "name": "mfpurrfect #61",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 60,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0x587b0ae270912926f09d66723839d5033f97df8743532ecbf759fbae450e3fcd",
+            "name": "mfpurrfect #62",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 61,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0x39b57a4faf0ecff47847a564d99f3135139aca991625935c648479d6469b0aad",
+            "name": "mfpurrfect #63",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 62,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
+                }
+            ]
+        },
+        {
+            "ethscription_id": "0x7e0e1656d8b01fc6d90b61fc7bf6b845a93a0f2da26d2f973aac7190364091f8",
+            "name": "mfpurrfect #64",
+            "description": "",
+            "external_url": "",
+            "background_color": "",
+            "item_index": 63,
+            "item_attributes": [
+                {
+                    "trait_type": "type",
+                    "value": "PFP"
                 }
             ]
         }
